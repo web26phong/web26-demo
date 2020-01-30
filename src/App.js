@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>YOU ARE AWESOME!!!! :Rocket:</h1>
+      <h1>YOU ARE YOURSELF:Rocket:</h1>
       <h2>
         Deployed with{' '}
         <a
